@@ -24,4 +24,8 @@ To further test ChatGPT's adaptability, I posed a closed-ended question. I expec
 
 I wanted to end the conversation abruptly. This was closed-ended and direct, but I made it formal because I was curious to see how ChatGPT reacted. This was the most telling response. It was a reminder that ChatGPT is not perfect, and most of all, not human. It is catering to whatever the user wants, and we are working towards making technology as adaptable as possible. Nonetheless, it was very impressive to properly analyze what ChatGPT is doing. <br>
 
+<img src="Lastly.png" alt="Last" width="700">
+
+I then just asked my last question: something formal, indirect, and open-ended as a finale question. Not only does this response show a high level of understanding in my own college constraints (This actually reminded me to start my budgeting sheet...) but also this contributes to ChatGPT's ability to tailor to one's needs. They also responded in lengthy format as expected, and the response was formal. All in all, I can conclude that ChatGPT is a pro at seeing what text is at a bird's eye view, but it is not perfect, and that is probably what we need NLP for!
+
 
