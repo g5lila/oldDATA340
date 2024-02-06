@@ -6,6 +6,8 @@ When starting my experimental design, I came up with a combination of different 
 My plan before getting onto ChatGPT was to make sure I had a continuous conversation, but the content of each question I asked always had different subject. For example: take the first couple of questions I asked:
 ![alt text](1.jpg "Title")
 This is a regular paragraph.
-    <tr>
-    </tr>
+
+<table>
+</table>
+
 This is another regular paragraph.
